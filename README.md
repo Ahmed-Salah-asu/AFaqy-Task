@@ -13,7 +13,7 @@ Features
 
 4-generate Reoprt after Execution
 
-5-Use manven and Testng
+5-Use maven and Testng
 
 Steps to reproduce
 ------------------
