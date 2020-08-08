@@ -1,6 +1,6 @@
 # AFaqy-Task
 
-Create Test Automation Framework from Sktrach 
+Create Test Automation Framework from scratch 
 
 Features
 ---------
