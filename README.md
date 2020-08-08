@@ -11,6 +11,10 @@ Features
 
 3-make Scolling using JavascriptExecutor or Action labraries
 
+4-generate Reoprt after Execution
+
+5-Use manven and Testng
+
 Steps to reproduce
 ------------------
 o	Open above website. 
