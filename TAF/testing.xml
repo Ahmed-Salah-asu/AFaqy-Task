@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite thread-count="2" verbose="1"
+	name="Vapulus Regression Suite" annotations="JDK" parallel="false">
+	<parameter name="Browser" value="chrome"></parameter>
+	<test name="Test Regression">
+		<classes>
+		
+			<class name="tests.CheckProductValueTest" />
+		</classes>
+	</test>
+</suite> 

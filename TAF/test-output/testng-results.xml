@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15331" started-at="2020-08-08T21:00:00 EET" finished-at="2020-08-08T21:00:15 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15331" started-at="2020-08-08T21:00:00 EET" finished-at="2020-08-08T21:00:15 EET">
+      <class name="tests.CheckProductValueTest">
+        <test-method status="PASS" signature="startDriver(java.lang.String)[pri:0, instance:tests.CheckProductValueTest@6acdbdf5]" name="startDriver" is-config="true" duration-ms="9972" started-at="2020-08-08T20:59:50 EET" finished-at="2020-08-08T21:00:00 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method status="PASS" signature="Adding_items_to_cart()[pri:1, instance:tests.CheckProductValueTest@6acdbdf5]" name="Adding_items_to_cart" duration-ms="15299" started-at="2020-08-08T21:00:00 EET" finished-at="2020-08-08T21:00:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Adding_items_to_cart -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:tests.CheckProductValueTest@6acdbdf5]" name="stopDriver" is-config="true" duration-ms="0" started-at="2020-08-08T21:00:15 EET" finished-at="2020-08-08T21:00:15 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDriver -->
+      </class> <!-- tests.CheckProductValueTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
