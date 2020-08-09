@@ -17,7 +17,7 @@ Features
 
 Steps to reproduce
 ------------------
-o	Open above website. 
+o	Open website: http://tutorialsninja.com/demo/. 
 
 o	Click on Desktop from menu bar.
 
